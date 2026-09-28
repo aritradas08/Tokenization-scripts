@@ -2,7 +2,8 @@
 
 Run order:
 
-Get GPU access
+Get GPU access, then
+
 module load python/3.11
 1. python vqvae_tracks.py
 2. python pretrain_ssl_contrastive_tokens.py
